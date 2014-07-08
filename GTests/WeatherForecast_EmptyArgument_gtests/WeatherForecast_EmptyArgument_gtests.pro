@@ -4,8 +4,8 @@ LIBS += "C:/GTEST/lib/libGoogleTest.a"
 
 INCLUDEPATH += "../../"
 
+HEADERS += \
+    ../../EmptyArgument.h
+
 SOURCES += \
     main.cpp
-
-HEADERS += \
-    ../../CurrentCondition.h
